@@ -22,7 +22,7 @@ Due on **Wednesday, September 27, 2023--end of the day**
 ## Tasks
 | Name | Task | Due| Status |
 |--|--|--|--|
-| Team | Documentation wiki | Friday 9/22 | not started |
+| Team | Documentation wiki | Friday 9/22 | done--under "Issues" |
 | Team | Create place to put sources and research question | Friday 9/22 | not started |
 | Ryn | Find 1 source | Wednesday 9/27 | not started |
 | Mars | Find 1 source | Wednesday 9/27 | not started |
