@@ -18,3 +18,15 @@ Due on **Wednesday, September 27, 2023--end of the day**
 
 ### Add to your documentation wiki
 - that you worked on lit review today, where the material is, and what you accomplished
+
+## Tasks
+| Name | Task | Due| Status |
+|--|--|--|--|
+| Team | Documentation wiki | Friday 9/22 | not started |
+| Team | Create place to put sources and research question | Friday 9/22 | not started |
+| Ryn | Find 1 source | Wednesday 9/27 | not started |
+| Mars | Find 1 source | Wednesday 9/27 | not started |
+
+## Decisions
+- We each find one additional source from the ones we were given (we already have 3; need to get to 5).
+- Citation Style: APA 7 (most recent APA style)
