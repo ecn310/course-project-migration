@@ -23,9 +23,9 @@ Due on **Wednesday, September 27, 2023--end of the day**
 | Name | Task | Due| Status |
 |--|--|--|--|
 | Team | Documentation wiki | Friday 9/22 | done--under "Issues" |
-| Team | Create place to put sources and research question | Friday 9/22 | not started |
-| Ryn | Find 1 source | Wednesday 9/27 | not started |
-| Mars | Find 1 source | Wednesday 9/27 | not started |
+| Team | Create place to put sources and research question | Friday 9/22 | done |
+| Ryn | Find 1 source | Wednesday 9/27 | done |
+| Mars | Find 1 source | Wednesday 9/27 | done |
 
 ## Decisions
 - We each find one additional source from the ones we were given (we already have 3; need to get to 5).
