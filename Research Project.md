@@ -24,7 +24,10 @@
 > - **Summary/Important Points**
 > > - "examines inter-regional migration patterns in the United States by native-born [White and Black people] over the final four decades of the 20th century"
 > > - "whether regional changes in the United States have made the South a more favorable destination than it once was, especially for [Black people]"
+> > > - Hunt et al. (2008) postulate that the South may be a more favorable destination due to industrailization, which meant that "the South may be increasingly seen as a 'land of promise' where new opportunities can be pursued and past traditions reclaimed." They believe that part of the new attractiveness of the South could be a desire to pursue economic opportunities (following industrializiation) and the chance to "reclaim historical space occupied by their ancestors." 
 > > - analyzes "[racial] differences in primary (an original move) and return migration to the South, as well as in the selectivity of migration"
+> > > - "For [White people], it is easy to argue that historical advantages from one place are simply transferred to a new one. For [Black people], this same argument did not hold historically..."
+> > - Hunt et al. (2008) suggest that the primary reasons for these migrations to the South (in this article, the authors insist on the concept of a "New South" characterized by industrialization) were economic opportunity and cultural ties. As these perceptions of these factors fluctuate, so may migration of different racial groups to the region.
 
 - Newman, R. J. (1983). Industry migration and growth in the South. *The Review of Economics and Statistics, 65*(1), 76-86. https://www.jstor.org/stable/1924411
 > - How we found it: Given (from Prof. Pearson/Prof. Buzard)
