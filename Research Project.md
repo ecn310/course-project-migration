@@ -29,7 +29,12 @@
 - Newman, R. J. (1983). Industry migration and growth in the South. *The Review of Economics and Statistics, 65*(1), 76-86. https://www.jstor.org/stable/1924411
 > - How we found it: Given (from Prof. Pearson/Prof. Buzard)
 > - **Summary/Important Points**
-> > - "corporate tax rate differentials between states as well as the extent of unionization and favorable business climate have been major factors influencing the acceleration of industry movement to the South"
+> > - The authors hypothesize that three distinct factors may have influenced what they refer to as "the 'Sunbelt' phenomenon."
+> > > - (1) differences in trends in state corporate income taxes: "Beginning in the early 1950s the relative tax rate for several southern states... began to decline sharply. On the other hand, relative tax rates for three divisions, New England, the East North Central and the Mid-Atlantic, rose in the early sixties."
+> > > - (2) a more favorable business climate in the South, with regard to "the division of power between union and management in the collective bargaining process."
+> > > - (3) unionization: "Movement to the South is, therefore, seen as a flight from high-union states."
+> > - "Have these three factors been important in determining the direction and magnitude of inter-state migration of industry? and Are there systematic reasons for differences between industries in the degree to which these factors affect migration decisions?"
+> > - This paper explores the economic theory behind how the state corporate income tax, business climates, and unionization can become economic incentives or disincentives for migration.
 
 * Smith, J. P., & Welch, F. R. (1989). Black Economic Progress After Myrdal. *Journal of Economic Literature, 27*(2), 519–564. http://www.jstor.org/stable/2726688
 > - How we found it: I used the reference list from the Hunt, L. L., Hunt, M. O., & Falk, W. W. (2008) article to try to find relevant articles/sources that talked about similar information. I found the Smith, J. P., & Welch, F. R. (1989) article directly in the reference list.
