@@ -9,6 +9,7 @@
 > > - from **Abstract** section: "Commonly used classifications of return and nonreturn migrants, based on birthplace and previous residence, do not accurately reflect the extent of familial and social ties behind recent Black migration to the southern United States. Analysis of the household context of individual migration confirms evidence from in-depth interviews with migrants that thousands of Black children and adults born outside the South are moving to the region as part of return migration. A reinterpretation of migration categories underscores social trends of overriding importance in explaining destination choices."
 > > - This article delineates the migration pattern of Black Americans between 1975-1980, particularly their choice of return migration to the South or to stay in the North. The large shift to return back to their previous origin after occupying residence in the North can be attributed to what is described as return migration and is the result of favorable employment trends due to the expansive manufacturing landscape and growth in service-sector jobs. Researchers found that the highest concentration of Black Americans migrating back to the South has been in metropolitan areas, and locations in close proximity that once had the greatest movement to the North. 
 
+
 - Greenwood, M. J., & Hunt, G. L. (1984). Migration and interregional employment redistribution in the United States. *The American Economic Review, 74*(5), 957-69. https://www.jstor.com/stable/555
 > - How we found it: Given (from Prof. Pearson/Prof. Buzard)
 > - **Summary/Important Points**
@@ -16,7 +17,6 @@
 > > - Similar to the article based on Myrdial's theory, Northern migration had a direct link to the rising economic success within the Black community and increasing wages. In the early 20th century, The Southern economy was characterized by low wages, intensive labor, and agricultural dependence. This economy made Black Americans resource dependent and did not allow them to branch out into opportunities that would be substantially more profitable. Simultaneously, the urbanization and industrialization of the North allowed for efficient and increased output, creating lucrative ventures for the Black community. As masses migrated to the North, workers unionized and the Black population had the first opportunity to mobilize themselves into an organized work force. Thus, economic growth during this time can be linked directly to migration of the Black community.
 > > - Focuses closely on the ramifactions of the shift from agriculture, in the South, to industrialized work, in the North.
 > > - An increased number of workers also contributes heavily to the amount of output that can be produced and thus, the aggregate income of the Black community. As more funds are obtained by Black workers, systems such as education, which coincide with economic success, greatly increase.  
-
 
 
 - Hunt, L. L., Hunt, M. O., & Falk, W. W. (2008). Who is headed South? U.S. migration trends in Black and White, 1970-2000. *Social Forces, 87*(1), 119-95. https://api.semanticscholar.org/CorpusID:143467060
@@ -29,6 +29,7 @@
 > > > - "For [White people], it is easy to argue that historical advantages from one place are simply transferred to a new one. For [Black people], this same argument did not hold historically..."
 > > - Hunt et al. (2008) suggest that the primary reasons for these migrations to the South (in this article, the authors insist on the concept of a "New South" characterized by industrialization) were economic opportunity and cultural ties. As these perceptions of these factors fluctuate, so may migration of different racial groups to the region.
 
+
 - Newman, R. J. (1983). Industry migration and growth in the South. *The Review of Economics and Statistics, 65*(1), 76-86. https://www.jstor.org/stable/1924411
 > - How we found it: Given (from Prof. Pearson/Prof. Buzard)
 > - **Summary/Important Points**
@@ -37,7 +38,8 @@
 > > > - (2) a more favorable business climate in the South, with regard to "the division of power between union and management in the collective bargaining process."
 > > > - (3) unionization: "Movement to the South is, therefore, seen as a flight from high-union states."
 > > - "Have these three factors been important in determining the direction and magnitude of inter-state migration of industry? and Are there systematic reasons for differences between industries in the degree to which these factors affect migration decisions?"
-> > - This paper explores the economic theory behind how the state corporate income tax, business climates, and unionization can become economic incentives or disincentives for migration.
+> > - This paper explores how the state corporate income tax, business climates, and unionization can become economic incentives or disincentives for migration.
+
 
 * Smith, J. P., & Welch, F. R. (1989). Black Economic Progress After Myrdal. *Journal of Economic Literature, 27*(2), 519–564. http://www.jstor.org/stable/2726688
 > - How we found it: I used the reference list from the Hunt, L. L., Hunt, M. O., & Falk, W. W. (2008) article to try to find relevant articles/sources that talked about similar information. I found the Smith, J. P., & Welch, F. R. (1989) article directly in the reference list.
