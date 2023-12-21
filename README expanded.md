@@ -58,13 +58,20 @@
 - replace south=1 if migpac1==01
   >- This will help to identify individuals who were born in the North by specifically identifying each Northern state.
   >- 01 is the FIPS code for Alabama. Repeat this line of code, replacing the 01 with the FIPS code for each of the remaining states identified as being part of the South: Arkansas (05), Florida (12), Georgia (13), Louisiana (22), Mississippi (28), North Carolina (37), Oklahoma (40), Tennessee (47), Texas (48), and Virginia (51).
+  >- If the MIGPLAC1 variable is not available in a specific sample, use the MIGPLAC5 variable instead, repeating the same steps: replace south=1 if migplac5==01
 - gen migsouth=0
+  >- This generates a dummy variable that will combine the previous two.
 - replace migsouth=1 if north==1 & south==1
+  >- This combines the previous two dummy variables to help identify people who both were born in the North and lived in the South one or five years prior to a sample year. Finding the frequency of these individuals will help us to get the migration rate.
 - tab migsouth
+  >- This code displays the frequency and percentage of the total population who have a value of migsouth=0 or migsouth=1 assigned to them. The migration rate we want to collect is the percentage of migsouth=1. 
 - by race: tab migsouth
+  >- This does the same thing as the previous line of code, but for each racial group instead of for the total population.
 
 ## Displaying the data (using Excel)
 - In an Excel file, create two tables. Each table should have columns for each sample year (decades from 1950-2020, inclusive) and rows for each racial group (Black, White, and total). One table should be for median income, and the other table should be for migration rate.
 - As each piece of data is collected (from Stata), record it in the appropriate
 - Rearrange the two tables by racial group (instead of by what data they display, like they are currently). There should now be three tables.
-- 
+- Select each table individually, and for each one, generate a graph (any type).
+- Then, select the generated graph and click on the button that says "Change Chart Type." Choose the "Combo" option, then "Custom Combo." Make each series a line graph with markers.
+- Add chart and axis titles for each graph as appropriate.
