@@ -37,18 +37,34 @@
 ## Working with the data
 ### Finding the median income
 - gen realinc=inctot*cpi99
+  >- This makes sure that all dollar values are converted to the same base year (1999), which allows for comparisons between different years.
+- keep if realinc <9999999
+  >- This eliminates all the numbers that are too large to be displayed by Stata.
 - sort race
+  >- This allows for the data to be later sorted by race.
+- sum realinc, detail
+  >- This provides a detailed summary of the real income of the total population, including the median (50th percentile) income, which is what we are looking for.
+- by race: sum realinc, detail
+  >- This provides a detailed summary of the real income of each racial group (e.g., Black people, White people, etc.), including the median income.
 
 ### Finding the migration rate
 - gen north=0
+  >- This generates a dummy variable that will later help to identify those individuals who were born in the North.
 - replace north=1 if bpl==09
+  >- This will help to identify individuals who were born in the North by specifically identifying each Northern state.
+  >- 09 is the FIPS code for Connecticut. Repeat this line of code, replacing the 09 with the FIPS code for each of the remaining states identified as being part of the North: Delaware (10), Maine (23), Maryland (24), Massachusetts (25), New Hampshire (33), New Jersey (34), New York (36), Pennsylvania (42), Rhode Island (44), and Vermont (50).
 - gen south=0
+  >- This generates a dummy variable that will later help to identify those individuals who lived in the South one or five years prior to the sample year.
 - replace south=1 if migpac1==01
+  >- This will help to identify individuals who were born in the North by specifically identifying each Northern state.
+  >- 01 is the FIPS code for Alabama. Repeat this line of code, replacing the 01 with the FIPS code for each of the remaining states identified as being part of the South: Arkansas (05), Florida (12), Georgia (13), Louisiana (22), Mississippi (28), North Carolina (37), Oklahoma (40), Tennessee (47), Texas (48), and Virginia (51).
 - gen migsouth=0
 - replace migsouth=1 if north==1 & south==1
-- 
+- tab migsouth
+- by race: tab migsouth
 
 ## Displaying the data (using Excel)
 - In an Excel file, create two tables. Each table should have columns for each sample year (decades from 1950-2020, inclusive) and rows for each racial group (Black, White, and total). One table should be for median income, and the other table should be for migration rate.
 - As each piece of data is collected (from Stata), record it in the appropriate
-- Rearrange the two 
+- Rearrange the two tables by racial group (instead of by what data they display, like they are currently). There should now be three tables.
+- 
