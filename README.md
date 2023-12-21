@@ -33,3 +33,6 @@
 
 #### Putting it all together (Viewing the data)
 - After extracting the data file and making the necessary adjustments to the command file, run the entire command file. The data should now be viewable in Stata.
+
+### Next Steps
+- For further information about working with and displaying the data, refer to the "README expanded.md" file on this repository.
