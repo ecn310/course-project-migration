@@ -1,5 +1,5 @@
 # Migration Project Data
-- ***A description of these data downloading, and coding steps may be found in our [report](https://github.com/ecn310/course-project-migration/blob/main/Migration%20Report%20Final.pdf).***
+- ***A description of these data downloading, viewing, and coding steps may be found in our [report](https://github.com/ecn310/course-project-migration/blob/main/Migration%20Report%20Final.pdf).***
 ## Downloading and viewing the data
 - ***Our downloaded data extracts are located in this [OneDrive folder](https://sumailsyr-my.sharepoint.com/:f:/g/personal/qwu102_syr_edu/EkqFuAJIbdFPkJEZ4kzdPa0B8dHyLAJbPNibAs3KxNpevg).***
 ### Generating data extracts on IPUMS
