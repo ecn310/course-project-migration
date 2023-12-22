@@ -73,6 +73,7 @@
   >- This does the same thing as the previous line of code, but for each racial group instead of for the total population.
 
 ## Displaying the data (using Excel)
+- ***The Excel workbook we used to generate our graphs, as well as saved PNG files of the graphs themselves, are also located in our [shared OneDrive folder](https://sumailsyr-my.sharepoint.com/:f:/g/personal/qwu102_syr_edu/EkqFuAJIbdFPkJEZ4kzdPa0B8dHyLAJbPNibAs3KxNpevg).***
 - In an Excel file, create two tables. Each table should have columns for each sample year (decades from 1950-2020, inclusive) and rows for each racial group (Black, White, and total). One table should be for median income, and the other table should be for migration rate.
 - As each piece of data is collected (from Stata), record it in the appropriate
 - Rearrange the two tables by racial group (instead of by what data they display, like they are currently). There should now be three tables.
