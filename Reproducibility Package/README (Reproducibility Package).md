@@ -6,10 +6,9 @@ Description
 ## (2) Data Collection & Analysis
 Description
 - 2.1 Summary of variables and samples required
-- 2.2 Downloading data files from IPUMS
-- 2.3 Accessing the data
-- 2.4 Data work
-- 2.5 Data analysis and conclusions
+- 2.2 Downloading and accessing data files from IPUMS
+- 2.3 Data work
+- 2.4 Data analysis and conclusions
 
 ## (3) Report
 Description
