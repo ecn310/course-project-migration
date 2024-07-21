@@ -7,5 +7,5 @@ This paper explores the reasons behind the migration of three groups of people f
 #### Repository Contents
 - **Final Report:** description
 - **Reproducibility Package:** description
-- **Working Folder:** description
+- [**Working Folder:**](https://sumailsyr-my.sharepoint.com/:f:/g/personal/qwu102_syr_edu/ElFttFZHsVlEp0PZXKwhwTgBf4TW_41Wh42sCX_AVBQrvg?e=3Szf2H) This is the OneDrive folder that contains the original Excel and Word files that I used to create the revised version of the project. (Copies of the information in these documents have been uploaded to GitHub as necessary.) The link is accessible to anyone with a working Syracuse University Microsoft account.
 - **Archive:** description
