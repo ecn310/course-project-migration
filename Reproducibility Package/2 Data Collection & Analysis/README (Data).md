@@ -2,7 +2,7 @@
 This folder/section contains the necessary information and materials needed for a person with no prior knowledge of the project to recreate the steps taken to collect, access, code, visualize, and draw conclusions from the data.
 
 #### 2.1 Summary of variables and samples required
-This document contains a link to the website from which the data was collected (IPUMS). It also includes for each variable a description and an explanation of why it is needed in the project.
+This document contains a link to the website from which the data was collected (IPUMS). It also includes for each variable a shortened description lifted directly from IPUMS.
 
 #### 2.2 Downloading and accessing data files from IPUMS
 This document details the process through which I downloaded and prepared the data and text files so that they could be accessed and used in Stata. It also contains a link to where my copies of the data and do-files are stored in OneDrive.
