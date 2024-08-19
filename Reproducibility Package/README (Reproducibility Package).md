@@ -12,5 +12,5 @@ Description
 
 ## (3) Report
 Description
-- 3.1 Link to report PDF (in this repository)
+- 3.1 Copy of report PDF
 - 3.2 Link to Overleaf
