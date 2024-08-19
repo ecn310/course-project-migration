@@ -12,5 +12,6 @@ Description
 
 ## (3) Report
 Description
-- 3.1 Copy of report PDF
+- 3.1.1 Overleaf PDF
+- 3.1.2 Word PDF
 - 3.2 Link to Overleaf
