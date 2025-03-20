@@ -1,0 +1,78 @@
+\documentclass[12pt]{article}
+
+% set margins and spacing
+\addtolength{\textwidth}{1.3in}
+\addtolength{\oddsidemargin}{-.65in} %left margin
+\addtolength{\evensidemargin}{-.65in}
+\setlength{\textheight}{9in}
+\setlength{\topmargin}{-.5in}
+\setlength{\headheight}{0.0in}
+\setlength{\footskip}{.375in}
+\renewcommand{\baselinestretch}{1.0}
+\linespread{1.0}
+
+% load miscellaneous packages
+\usepackage{csquotes}
+\usepackage[american]{babel}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{graphicx,amsbsy,amssymb, amsmath, amsthm, MnSymbol,bbding,times, verbatim,bm,pifont,pdfsync,setspace,natbib}
+
+% enable hyperlinks and table of contents
+\usepackage[pdftex,
+bookmarks=true,
+bookmarksnumbered=false,
+pdfview=fitH,
+bookmarksopen=true,hyperfootnotes=false]{hyperref}
+
+% define environments
+\newtheorem{definition}{Definition}
+\newtheorem{fact}{Fact}
+\newtheorem{result}{Result}
+\newtheorem{proposition}{Proposition}
+
+
+
+\begin{document}
+\title{Migration Analysis Draft}
+\author{Qiong Wu
+\and Karyne Brown}
+\date{\vskip-.1in \today}
+\maketitle
+
+\section{Analysis}
+\label{sec:analysis}
+
+For our project, we hypothesized that a higher median income among a group of people (e.g., Black or White people living in the North) led to a higher rate of migration to the South for that group of people. The reasoning was that a higher income gave people the financial ability to migrate in search of better economic opportunities. (A higher median income generally indicates that individuals within that population have higher incomes across the board.) In the 1970s especially, the South was economically a much better place to work than the North, due to a variety of reasons covered in our Literature Review section. As a result, our data work focused on attempting to determine whether or not there was a relationship between the median income of Black and White people in the North and their inclination to migrate to the South. Our expectation was to find that a higher median income in each group would correspond to a higher rate of migration for that group of people. 
+
+Through what we were able to do with the data, we found the median income for Black people, White people, and the total median income for Black and White people living in the North, as well as the percentage of Black people, of White people, and of the total number of Black and White people who moved from the North (defined as Maryland, Pennsylvania, New York, New Jersey, Connecticut, Rhode Island, Massachusetts, Vermont, New Hampshire, Maine, and Delaware) to the South (defined as Texas, Oklahoma, Arkansas, Louisiana, Mississippi, Alabama, Georgia, Florida, North Carolina, Tennessee, and Virginia), over 7 samples (each decade from 1950 to 2020, excluding 1960). Our results are shown in the tables below: 
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{Total Migration Rate vs. Total Median Income.jpg}
+    \caption{Total Migration Rate vs. Total Median Income}
+    \label{fig:total}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{White Migration Rate vs. White Median Income.jpg}
+    \caption{White Migration Rate vs. White Median Income}
+    \label{fig:white}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{Black Migration Rate vs. Black Median Income.jpg}
+    \caption{Black Migration Rate vs. Black Median Income}
+    \label{fig:black}
+\end{figure}
+
+We decided to use three different scatterplots to display what we found: one for the total Black and White population, one for just the White population, and one for the Black population. The horizontal axis shows the percentage of each population that migrated from the North to the South, and the vertical axis shows the median income for that population. Each data point represents data from a different sample (decade). Instead of representing these data over time, we eliminated the need for a “time” axis because we are trying to determine whether there is a direct relationship between the two variables of income and migration. 
+
+Our results showed that overall, there was no direct relationship between the median income of a population and their tendency to move from the North to the South in search of better economic opportunity. As shown from the scatterplot above, there is no clear relationship between the median income of Black and White people in the North and the percentage of Black and White people who moved to the South. The same statement holds true when examining only White people who lived in the North; there is no clear relationship between these two variables. 
+
+Within just the Black population, however, there appears to be a faint correlation between median income and percentage of population that migrated. On the left side of the scatterplot, where percentage of migration is lower, the data points show lower median income. On the right side of the scatterplot, where percentage of migration is higher, the data points show higher median income. This implies that median income is a more crucial factor in catalyzing the migration of Black people from the North to the South than for White people. A possible explanation for this is that it has historically been easier for White people than for Black people to gain financial freedom in any sense, and especially to accumulate enough wealth to migrate to a completely different region of the country.
+
+Though our data may not be very detailed, a few implications may actually arise from the incompleteness of our analysis. One possible explanation for the lack of a clear relationship between the two variables we examined is that migration is not driven purely by financial factors. After the majority of North-South migration took place in the 1970s, the number of people (in any given group or population) who wanted to migrate from the North to the South may have declined. Therefore, even if the median income for that group of people increased after the 1970s, they may still have chosen not to migrate. This would show up in the scatterplots as points with lower migration rates and higher incomes. We may conclude from this analysis that a combination of factors catalyzed North-South migration in the 1970s, after which migration decreased, perhaps because the majority of people who intended to migrate already did so during that decade, and changes in any migration factors in the following decades will not display a strong correlation.
+
+\end{document}
